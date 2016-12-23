@@ -98,13 +98,14 @@
            <hr>
            
           
-                 
+             
              <div style="float: left; width: 50%;">
-           <h4 style = "color:blue" align = "left"><b>Languages and Frameworks:</b></h4>
+             <font size = "4">
+           <h4 style = "color:blue" align = "left"><b><font size = "5">Languages and Frameworks:</font></b></h4>
            
            
            <ul>
-             
+            
                 <li style = "color:blue" align = "left"><em><strong>Java</strong></em></li>
              
              <li style = "color:blue" align = "left"><em><strong>Android</strong></em></li>
@@ -138,13 +139,16 @@
              <li style = "color:blue" align = "left"><em><strong>Dark Basic</strong></em></li>
              
              </ul>
+             </font>
              </div>
-           
+            
           
            
           
             <div style="float: left; width: 50%;">
-            <h4 style = "color:blue" align = "left"><b>Tools and expertise:</b></h4>
+              
+              <font size = "4">
+            <h4 style = "color:blue" align = "left"><b><font size = "5">Tools and expertise:</font></b></h4>
            
           
            <ul>
@@ -165,7 +169,7 @@
         
             
              </ul>
-             
+             </font>          
              </div>
              
          
@@ -195,6 +199,7 @@
            <hr>
            
            <div class = "row">
+             
              <div class = "col-md-6">
       <div class="thumbnail">
       <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/RicRacers.png" width="304" height="150" alt="RicRacersProject">
@@ -204,11 +209,64 @@
         </div>
            </div>
              </div>
+             
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/HomePageRogueSpear.png" width="304" height="150" alt="photo HomePageRogueSpear.png">
+      <div class="caption">
+        <h5 style = "color:white">High School Sophomore Project</h5>
+        <p style = "color:white">Html and CSS</p>
+        </div>
            </div>
+             </div>
            
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/darkBasicGame.png" width="304" height="150" alt="photo darkBasicGame.png">
+      <div class="caption">
+        <h5 style = "color:white">Game Development High School Project</h5>
+        <p style = "color:white">Dark Basic and 3D World Studio</p>
+        </div>
+           </div>
+             </div>
+             
+             
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/Screenshot_2016-12-22-21-47-06.png" width="304" height="150" alt="photo Screenshot_2016-12-22-21-47-06.png">
+      <div class="caption">
+        <h5 style = "color:white">IDrum Android App [In development]</h5>
+        <p style = "color:white">Android, Parse, JQuery and GoogleMapsAPI</p>
+        </div>
+           </div>
+             </div>
+             
+             
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/TeacherAverageGrade.png" width="304" height="150" alt="photo TeacherAverageGrade.png">
+      <div class="caption">
+        <h5 style = "color:white">Student Grade Average Calculator</h5>
+        <p style = "color:white">Java and Swing</p>
+        </div>
+           </div>
+             </div>
+             
+             
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/haunted%20house%20screenshot.jpg" width="304" height="150" alt="photo haunted house screenshot.jpg">
+      <div class="caption">
+        <h5 style = "color:white">Haunted House Portrait</h5>
+        <p style = "color:white">Java, Swing and Graphics2D</p>
+        </div>
+           </div>
+             </div>
+                            
            
+             
+           </div>
       </div>     
-    
     </div>
     
   </div>
