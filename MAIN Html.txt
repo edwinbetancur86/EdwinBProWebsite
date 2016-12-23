@@ -1,0 +1,252 @@
+<div class="container-fluid">
+<div class = "row">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"><img class = "img-responsiveSmallLogo" alt="Brand" src="http://www.educationalappstore.com/images/upload/9207-logo-9207-logo-codebox.png"></a>
+    </div>    
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Edwin Betancur</a>
+    </div>
+
+    <div id="main-nav" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        
+        <li><a href="#" class="scroll-link" data-id="home">Home</a></li>
+        
+        <li><a href="#" class="scroll-link" data-id="aboutMe">About</a></li>
+        
+        <li><a href="#" class="scroll-link" data-id="portfolio">Portfolio</a></li>
+        
+        <li><a href="#" class="scroll-link" data-id="contactMe">Contact</a></li>
+        
+      </ul>
+      </div>
+    
+</nav>
+  </div>
+</div>
+  
+<div class = "container" id="home" class="page-section">
+  
+  <div class = "row">
+    
+    <div class = "col-md-12 jumbotron">
+         
+         <div class = "text-center">
+           
+            <br>
+               <a href="http://s125.photobucket.com/user/dragonshadow1992/media/Profile%20Head%20Pic.png.html" target="_blank"><img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/Profile%20Head%20Pic.png" class="img-circle" border="0" alt=" photo Profile Head Pic.png" width="410" height="380"/></a>
+          
+             <h1 style="color:white">Software & Web Developer</h1>
+         
+           <h2 style = "color:black">{Java} {Python} {C++} {Scheme}<br>{SQL} {html} {MIPS}</h2>
+           <hr>
+           <a href="https://github.com/edwinbetancur86" target = "_blank" role="button"><button style = "background-color:black; color:green" class="btn btn-success"><span class="glyphicon glyphicon-folder-open"> Github</span></i></button></a>
+           
+            <a href="https://www.linkedin.com/in/edwin-betancur-0099027b" target = "_blank" role="button"><button style = "background-color:black; color:green" class="btn btn-success"><span class="glyphicon glyphicon-briefcase"> Linkedin</span></button>
+           
+           <a href="https://forum.freecodecamp.com/users/edwinbetancur86/summary" target = "_blank" role="button"><button style = "background-color:black; color:green" class="btn btn-success"><span class="glyphicon glyphicon-education"> freeCodeCamp</span></button></a>
+                     
+        
+      </div>     
+    
+    </div>
+    
+  </div>
+  
+</div>
+ 
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<div class = "container" id="aboutMe" class="page-section">
+  
+  <div class = "row">
+    
+    <div class = "col-md-12 jumbotron2">
+         
+         <div class = "text-center">
+           <h1 style="color:blue;"><br>About Me</h1>
+           
+           <hr>
+           
+           <p align = "left" style = "color:blue">
+             <kbd><font size="4">I'm a school and 
+             self-taught software and web developer from 
+           the small state of Rhode Island. I graduated 
+           from Rhode Island College in May 2016 with 
+           a Bachelor of Arts in Computer Science while
+           being inducted into the Upsilon Pi Epsilon
+           honor society and acheving cum lande latin 
+             honors. My passion is to create and design
+           efficient and robust software and websites,
+           to help solve real world challenges.</font></kbd></p>
+           
+           
+           <hr>
+           
+          
+                 
+             <div style="float: left; width: 50%;">
+           <h4 style = "color:blue" align = "left"><b>Languages and Frameworks:</b></h4>
+           
+           
+           <ul>
+             
+                <li style = "color:blue" align = "left"><em><strong>Java</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Android</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Swing</strong></em></li>
+        
+             <li style = "color:blue" align = "left"><em><strong>Parse</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>LibGDX</strong></em></li>
+             
+               <li style = "color:blue" align = "left"><em><strong>jQuery</strong></em></li>
+             
+                <li style = "color:blue" align = "left"><em><strong>SQL</strong></em></li>
+             
+                 <li style = "color:blue" align = "left"><em><strong>HTML5</strong></em></li>
+                          
+               <li style = "color:blue" align = "left"><em><strong>CSS3</strong></em></li>
+             
+                <li style = "color:blue" align = "left"><em><strong>Bootstrap3</strong></em></li>
+        
+                <li style = "color:blue" align = "left"><em><strong>Python</strong></em></li>
+        
+                <li style = "color:blue" align = "left"><em><strong>Scheme</strong></em></li>
+             
+                <li style = "color:blue" align = "left"><em><strong>Visual Basic</strong></em></li>
+             
+               <li style = "color:blue" align = "left"><em><strong>C++</strong></em></li>
+             
+               <li style = "color:blue" align = "left"><em><strong>MIPS</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Dark Basic</strong></em></li>
+             
+             </ul>
+             </div>
+           
+          
+           
+          
+            <div style="float: left; width: 50%;">
+            <h4 style = "color:blue" align = "left"><b>Tools and expertise:</b></h4>
+           
+          
+           <ul>
+             
+                <li style = "color:blue" align = "left"><em><strong>Eclipse</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Intellij</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Android Studio</strong></em></li>
+             
+              <li style = "color:blue" align = "left"><em><strong>SQLite Studio</strong></em></li>
+             
+              <li style = "color:blue" align = "left"><em><strong>TextPad</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Swing GUI</strong></em></li>
+             
+             <li style = "color:blue" align = "left"><em><strong>Visual Studio</strong></em></li>
+        
+            
+             </ul>
+             
+             </div>
+             
+         
+           
+         
+           
+      </div>     
+    
+    </div>
+    
+  </div>
+  
+</div>
+      
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>      
+   
+ <div class = "container" id="portfolio" class="page-section">
+  
+  <div class = "row">
+    
+    <div class = "col-md-12 jumbotron3">
+         
+         <div class = "text-center">
+           <h1 style="color:white;"><br>Portfolio</h1>
+           <h4 style = "color:black">Below you'll find some of my recent work</h4>
+           <hr>
+           
+           <div class = "row">
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/RicRacers.png" width="304" height="150" alt="RicRacersProject">
+      <div class="caption">
+        <h5 style = "color:white">RicRacers College Project</h5>
+        <p style = "color:white">Java and LibGDX</p>
+        </div>
+           </div>
+             </div>
+           </div>
+           
+           
+      </div>     
+    
+    </div>
+    
+  </div>
+  
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>   
+<br><br><br><br><br><br><br><br><br><br>
+
+<div class = "container" id="contactMe" class="page-section">
+  
+  <div class = "row">
+    
+    <div class = "col-md-12 jumbotron4">
+         
+         <div class = "text-center">
+           <h1 style="color:#707B7C;"><br>Contact Me</h1>
+           <h4 style = "color:black"><em>edwinbetancur86@yahoo.com</em></h4>
+           <h5 style = "color:black">Let's stay connected! Find me on:</h5>
+           <hr>
+           
+           
+           
+             
+               <a href="https://www.linkedin.com/in/edwin-betancur-0099027b" target = "_blank" role="button"><button class="btn btn-default" style = "background-color:#707B7C; color:white"><span class="glyphicon glyphicon-education"> Linkedin</span></button></a>
+          
+           
+           
+           <div class = "row">
+              <div class = "col-md-2">
+              
+                </div>
+             </div>
+           
+      </div>     
+    
+    </div>
+    
+  </div>
+  
+</div>
