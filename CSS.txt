@@ -1,0 +1,102 @@
+.img-responsiveSmallLogo {
+max-width: 85%; /* or to whatever you want here */
+max-height: 100%; /* or to whatever you want here */
+}
+
+.img-responsive
+{
+  display: inline; 
+  width: 38%;
+  height: 200px;
+}
+
+.jumbotron
+{
+  background-image: url('http://wallpapercave.com/wp/Ku4Vg2e.jpg');
+  background-size: 1500px 900px;
+  background-attachment: fixed;
+  min-height: 830px;
+  min-width: 500px;
+  
+  margin-top: 0px;
+  margin-bottom: 8px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.jumbotron2
+{
+  background-image: url('https://media1.britannica.com/eb-media/56/131956-004-1440AAA5.jpg');
+  background-size: 1430px 900px;
+  background-attachment: fixed;
+  min-height: 850px;
+  min-width: 700px;
+  
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.jumbotron3
+{
+  background-image: url('http://eskipaper.com/images/gray-background-2.jpg');
+  background-size: 1260px 900px;
+  background-attachment: fixed;
+  min-height: 850px;
+  min-width: 700px;
+  
+  margin-top: 0px;
+  margin-bottom: 8px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.jumbotron4
+{
+  background-image: url('http://cdn2.hubspot.net/hub/157703/file-18106256-jpg/images/thumbnail_1-resized-600.jpg');
+  background-size: 1700px 900px;
+  background-attachment: fixed;
+  min-height: 850px;
+  min-width: 700px;
+  
+  margin-top: 0px;
+  margin-bottom: 8px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.thumbnail{        
+    width: 300px; // or you could use percentage value for responsive layout
+    height: 500px;
+    background-color: black;
+    overflow: auto;
+}
+
+.page-section#home
+{
+  
+}
+
+.page-section#aboutMe
+{
+  
+}
+
+.page-section#portfolio
+{
+  
+}
+
+.page-section#contactMe
+{
+  
+}
+
+body
+{
+  background-size: 500px 500px;
+   background-image: url('http://wallpapercave.com/wp/pEeUsp1.jpg'); 
+   margin-top: 60px;
+
+}
