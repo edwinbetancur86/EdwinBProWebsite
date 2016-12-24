@@ -264,6 +264,18 @@
              </div>
                             
            
+             <div class = "col-md-6">
+      <div class="thumbnail">
+      <img src="http://i125.photobucket.com/albums/p59/dragonshadow1992/Capture.png" width="304" height="150" alt="photo Capture.png">
+      <div class="caption">
+        <h5 style = "color:white">Portfolio Site</h5>
+        <p style = "color:white">Html, Bootstrap, CSS, JQuery and Javascript</p>
+        </div>
+           </div>
+             </div>
+                        
+           
+             
              
            </div>
       </div>     
